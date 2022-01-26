@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftJoinVithLinq", "LeftJoinVithLinq\LeftJoinVithLinq.csproj", "{BBDA3644-527D-4A02-96DE-6E56A6A96122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDA3644-527D-4A02-96DE-6E56A6A96122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDA3644-527D-4A02-96DE-6E56A6A96122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDA3644-527D-4A02-96DE-6E56A6A96122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDA3644-527D-4A02-96DE-6E56A6A96122}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB8C4D85-9ADF-4676-BD0C-FA58040704D3}
+	EndGlobalSection
+EndGlobal
